@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Tedd Onyesero 👋
 
-<!--
-**teddmchl/teddmchl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Strathmore University | Nairobi, Kenya
 
-Here are some ideas to get you started:
+I build web applications, event systems, and software infrastructure. I work with JavaScript, React, Java, and HTML/CSS — and I'm focused on building products that solve real problems across Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- 🎟️ Event management & booking systems
+- 🌍 Platforms for African markets
+- ⚙️ Full-stack web applications
+
+## Tech Stack
+`JavaScript` `React` `Java` `HTML/CSS` `Node.js`
+
+## Let's work together
+📧 teddonyesero7@gmail.com  
+🌐 [teddonyesero.vercel.app](https://teddonyesero.vercel.app)
